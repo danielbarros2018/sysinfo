@@ -1,0 +1,3 @@
+# sysinfo
+
+Get system informations. Like CPU, Memory,...
